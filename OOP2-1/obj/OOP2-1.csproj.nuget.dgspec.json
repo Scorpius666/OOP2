@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mzydy\\source\\repos\\OOP2-1\\OOP2-1.csproj": {}
+    "D:\\Codeing\\OOP2\\OOP2-1\\OOP2-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mzydy\\source\\repos\\OOP2-1\\OOP2-1.csproj": {
+    "D:\\Codeing\\OOP2\\OOP2-1\\OOP2-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mzydy\\source\\repos\\OOP2-1\\OOP2-1.csproj",
+        "projectUniqueName": "D:\\Codeing\\OOP2\\OOP2-1\\OOP2-1.csproj",
         "projectName": "OOP2-1",
-        "projectPath": "C:\\Users\\mzydy\\source\\repos\\OOP2-1\\OOP2-1.csproj",
+        "projectPath": "D:\\Codeing\\OOP2\\OOP2-1\\OOP2-1.csproj",
         "packagesPath": "C:\\Users\\mzydy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mzydy\\source\\repos\\OOP2-1\\obj\\",
+        "outputPath": "D:\\Codeing\\OOP2\\OOP2-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mzydy\\AppData\\Roaming\\NuGet\\NuGet.Config",
